@@ -20,7 +20,7 @@ sgsnssdk.com
 ||byteicdn.com^
 ||ibytedtos.com^
 ||ttwstatic.com^
-||tiktokcdn-*.com^
+||tiktokcdn-^.com^
 ||tiktokcdn.com^
 ################################[FILTERS]################################
 javhd.onl
