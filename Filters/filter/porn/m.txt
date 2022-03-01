@@ -6,7 +6,7 @@
 # Blocks sex, pornography, hentai...
 # Total number of network filters: 25413
 ################################[FILTERS]################################
-#||tiktok^
+||tiktok^
 abtest-va-tiktok.byteoversea.com
 isnssdk.com
 lf1-ttcdn-tos.pstatp.com
