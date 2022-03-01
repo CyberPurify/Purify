@@ -6,7 +6,7 @@
 # Blocks sex, pornography, hentai...
 # Total number of network filters: 25413
 ################################[FILTERS]################################
-tiktok.com
+||tiktok^
 abtest-va-tiktok.byteoversea.com
 isnssdk.com
 lf1-ttcdn-tos.pstatp.com
@@ -28,17 +28,8 @@ sf1-ttcdn-tos.pstatp.com
 sf16-ttcdn-tos.ipstatp.com
 sf6-ttcdn-tos.pstatp.com
 sgsnssdk.com
-tiktokcdn-in.com
-tiktokcdn.com
-tiktokcdn.com.atomile.com
-tiktokcdn.com.c.bytetcdn.com
-tiktokcdn.com.c.worldfcdn.com
-tiktokcdn.com.rocket-cdn.com
-tiktokcdn.com.wsdvs.com
-tiktokv.com
-ttlivecdn.com
-ttlivecdn.com.c.worldfcdn.com
-ttlivecdn.com.wsdvs.com
+||tiktokv^
+||ttlivecdn^
 ttoversea.net
 byteicdn.com
 ibytedtos.com
