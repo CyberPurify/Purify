@@ -6,6 +6,7 @@
 # Blocks sex, pornography, hentai...
 # Total number of network filters: 25413
 ################################[FILTERS]################################
+tiktok.com
 abtest-va-tiktok.byteoversea.com
 isnssdk.com
 lf1-ttcdn-tos.pstatp.com
@@ -41,7 +42,7 @@ ttlivecdn.com.wsdvs.com
 ttoversea.net
 byteicdn.com
 ibytedtos.com
-#tiktokcdn-us.com
+||tiktokcdn^
 ttwstatic.com
 *tiktokcdn-*.com*
 *.tiktokcdn.com
