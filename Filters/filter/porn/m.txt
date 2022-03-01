@@ -6,7 +6,7 @@
 # Blocks sex, pornography, hentai...
 # Total number of network filters: 25413
 ################################[FILTERS]################################
-||tiktok.com^
+tiktok.com
 ||byteoversea.com^
 isnssdk.com
 lf1-ttcdn-tos.pstatp.com
@@ -20,7 +20,7 @@ sgsnssdk.com
 ||byteicdn.com^
 ||ibytedtos.com^
 ||ttwstatic.com^
-||tiktokcdn-^.com^
+tiktokcdn-us.com
 ||tiktokcdn.com^
 ################################[FILTERS]################################
 javhd.onl
