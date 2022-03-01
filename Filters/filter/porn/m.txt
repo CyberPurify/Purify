@@ -6,21 +6,22 @@
 # Blocks sex, pornography, hentai...
 # Total number of network filters: 25413
 ################################[FILTERS]################################
-*.byteoversea.com
+||tiktok.com^
+||byteoversea.com^
 isnssdk.com
 lf1-ttcdn-tos.pstatp.com
 muscdn.com
 musemuse.cn
 musical.ly
 sgsnssdk.com
-*.tiktokv.com*
-*.ttlivecdn.com*
-*.ttoversea.net*
-byteicdn.com
-ibytedtos.com
-ttwstatic.com
-*tiktokcdn-*.com*
-*.tiktokcdn.com
+||tiktokv.com^
+||ttlivecdn.com^
+||ttoversea.net^
+||byteicdn.com^
+||ibytedtos.com^
+||ttwstatic.com^
+||tiktokcdn-*.com^
+||tiktokcdn.com^
 ################################[FILTERS]################################
 javhd.onl
 vlxx.xyz
