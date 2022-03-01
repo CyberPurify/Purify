@@ -41,7 +41,7 @@ ttlivecdn.com.wsdvs.com
 ttoversea.net
 byteicdn.com
 ibytedtos.com
-tiktokcdn-us.com
+#tiktokcdn-us.com
 ttwstatic.com
 *tiktokcdn-*.com*
 *.tiktokcdn.com
