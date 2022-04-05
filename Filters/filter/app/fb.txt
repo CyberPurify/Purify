@@ -1,16 +1,14 @@
-0.0.0.0 akamaihd.net
-0.0.0.0 appspot.com
-0.0.0.0 cdninstagram.com
-0.0.0.0 edgekey.net
-0.0.0.0 edgesuite.net
-0.0.0.0 facebook.com
-0.0.0.0 facebook.net
-0.0.0.0 fb.com
-0.0.0.0 fb.me
-0.0.0.0 fbcdn.com
-0.0.0.0 fbcdn.net
-0.0.0.0 fbsbx.com
-0.0.0.0 instagram.com
-0.0.0.0 online-metrix.net
-0.0.0.0 tfbnw.net
-0.0.0.0 whatsapp.com
+akamaihd.net
+appspot.com
+cdninstagram.com
+edgekey.net
+edgesuite.net
+facebook.com
+facebook.net
+fb.com
+fb.me
+fbcdn.com
+fbcdn.net
+fbsbx.com
+online-metrix.net
+tfbnw.net
